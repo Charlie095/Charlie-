@@ -1,0 +1,25 @@
+body {
+	background: black;
+}
+
+.img{
+	margin-left: 50px;
+	text-align: center;
+
+}
+.title{
+	text-align: center;
+	
+
+}
+
+li{
+	text-align: center;
+	font-size: 58px;
+	background: #aaaaaa;
+	font-family: Arial;
+	color: white;
+	height: 150px;
+
+
+}
